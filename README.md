@@ -11,4 +11,8 @@ Welcome to our website dedicated to "The Book Thief" by Markus Zusak! Immerse yo
 
 
 ## Web Content And ScreenShots
-
+<img src="web-1.JPG">
+<img src="web-2.JPG">
+<img src="web-3.JPG">
+<img src="web-4.JPG">
+<img src="web-5.JPG">
